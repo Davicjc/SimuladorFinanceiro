@@ -1,18 +1,32 @@
-# Prestacoes-e-Descontos
-Este projeto foi criado como resultado de pedidos do meu professor da faculdade e tem como objetivo demonstrar meus conhecimentos em programação na linguagem Python.
+<p align="center">
+  <img src=".github/readme/banner.png" alt="SimuladorFinanceiro" width="100%">
+</p>
 
-A primeira versão do código foi escrita em Portugol e posteriormente refeita do zero por mim em Python.
+<p align="center">
+  <img alt="👤 Projeto pessoal" src="https://img.shields.io/badge/%F0%9F%91%A4_Projeto_pessoal-6E40C9?style=for-the-badge">
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img alt="Tkinter" src="https://img.shields.io/badge/Tkinter-3776AB?style=for-the-badge&logo=python&logoColor=white">
+</p>
 
-## Requisitos
-Para executar o arquivo com extensão .py, é necessário ter o Python instalado na máquina.
+<p align="center">Calculadora de prestações e descontos com interface gráfica em Python (Tkinter) — meu primeiro programa, feito para a faculdade.</p>
 
-No entanto, para executar o arquivo com extensão .exe, não é necessário ter o Python instalado.
+---
 
-Caso o Windows Defender reclame indicando a presença de vírus, isso pode acontecer devido ao método usado para compilar o código em ".exe".
+## ✨ O que é
 
-## Observações
-O código com a extensão .py está disponível para visualização, possibilitando a verificação do código fonte.
+Uma calculadora de **prestações** e **descontos** com janela gráfica. Nasceu como trabalho pedido pelo meu professor na faculdade: a primeira versão foi escrita em **Portugol** e depois refeita do zero por mim em **Python** — foi o meu primeiro programa.
 
-Por outro lado, o código com a extensão .exe não é possível visualizar o código fonte, pois ele já está compilado, mas ambos são equivalentes em funcionalidade.
+## 🚀 Como usar
 
-### Agradeço por sua visita e convido você a acessar a seção "Releases" para verificar todas as versões disponíveis do projeto ^-^
+| Arquivo | Como abrir |
+|---|---|
+| `Prestaçao e Desconto 1.4.py` | precisa do Python instalado: `python "Prestaçao e Desconto 1.4.py"` |
+| `Prestaçao e Desconto 1.4 'No Py'.exe` | roda direto no Windows, sem Python |
+
+> O Windows Defender às vezes reclama do `.exe` por causa da forma como ele é empacotado — o código-fonte equivalente está no `.py`, aberto para conferência.
+
+Veja também a seção **Releases** com todas as versões.
+
+---
+
+<p align="center">Feito por <a href="https://github.com/Davicjc">Davi Castro</a> · <a href="https://davicjc.com">davicjc.com</a></p>
